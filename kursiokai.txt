@@ -1,0 +1,6 @@
+Vardas Pavardë  ND1 ND2 ND3 ND4 ND5 Egzaminas
+Jace Bace       10   9   6   5   7     8
+Tadas Ponas      8   6   7   7   6     7
+Maironis Ma      9   8   9   6   6     7
+Zbignev Dafaga   7   5   3   5   6     10
+Jonas Ponas      8   7   8   9   8     9
